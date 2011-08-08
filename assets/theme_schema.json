@@ -1,0 +1,12 @@
+{
+	"theme":"site_template",
+	"name":"Site Template",
+	"created":"2011-08-07",
+	"updated":"2011-08-07",
+	"creator":"Brennan Novak",
+	"layouts":{
+		"sidebar":["content","sidebar","wide"],
+		"wide":["wide"],
+		"profile":["content","sidebar"]
+	}
+}
